@@ -1,6 +1,6 @@
 def return_string():
-    return ''
+    return 'I am a string'
 
-def interpolate_string(s):
-    return f'Hello, {s}!'
+def interpolate_string(name):
+    return f'Hello, {name}!'
     
